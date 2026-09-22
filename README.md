@@ -89,7 +89,7 @@ npm run dev
 
 ## 🔑 环境变量
 
-在 `Backend/.env` 中配置：
+在 `Backend/.env` 中配置（.env需新建）：
 
 ```env
 ZHIPU_API_KEY=your_zhipu_api_key
